@@ -1,0 +1,11 @@
+{
+  "name": "compass.uol-scholarship",
+  "version": "1.0.0",
+  "description": "Repositório de controle das atividades desenvolvidas durante o estágio na Scholarship Compass.UOL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
