@@ -1,0 +1,20 @@
+
+h1 {
+    font-size: 70px;
+    color: steelblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    text-shadow: 3px 3px 3px black;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+    color: brown;
+    text-shadow: 3px 3px 3px gray;
+}
+
+body {
+    background-color: burlywood ;
+}
