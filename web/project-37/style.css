@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 3em;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+input, button {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+#text-input {
+  width: 400px;
+  padding: 5px;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  border: 1px solid #413939;
+  margin-bottom: 30px;
+}
+
+#count-button {
+  padding: 5px 20px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: #b49292;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+}
+
+#count-button:hover {
+  background-color: #504747;
+}
+
+#result {
+  font-size: 30px;
+  font-weight: bold;
+}
